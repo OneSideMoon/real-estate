@@ -1,7 +1,7 @@
 # Web Application Project: Real Estate Website
 <br><br>
 <div align="center">
-    <img src="./preview/real-estate-2.png" style="width: 45%; border-radius: 15px;" alt="Big Screen Previw">
+    <img src="./preview/real-estate-2.png" style="width: 50%; border-radius: 15px;" alt="Big Screen Previw">
     <img src="./preview/real-estate.png" style="width: 45%; border-radius: 15px;" alt="Tablet Screen Previw">
     <img src="./preview/real-estate-3.png" style="width: 45%; border-radius: 15px;" alt="Mobile Screen Previw">
 </div>  
