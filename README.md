@@ -1,11 +1,10 @@
 # Web Application Project: Real Estate Website
 <br><br>
-
-<img src="./preview/real-estate-2.png" style="width: 50%; border-radius: 15px;" alt="Big Screen Previw">
-<img src="./preview/real-estate.png" style="width: 50%; border-radius: 15px;" alt="Tablet Screen Previw">
-<img src="./preview/real-estate-3.png" style="width: 50%; border-radius: 15px;" alt="Mobile Screen Previw">
-
-
+<div align="center">
+    <img src="./preview/real-estate-2.png" style="width: 45%; border-radius: 15px;" alt="Big Screen Previw">
+    <img src="./preview/real-estate.png" style="width: 45%; border-radius: 15px;" alt="Tablet Screen Previw">
+    <img src="./preview/real-estate-3.png" style="width: 45%; border-radius: 15px;" alt="Mobile Screen Previw">
+</div>  
 This repository contains the frontend part of the Real Estate web application. The project is designed using HTML, CSS, and JavaScript, with a focus on creating a responsive and interactive user interface. The frontend incorporates modern design principles, animations, and is optimized for various devices and screen sizes.
 **Preview:** You can view the demo video [here](https://drive.google.com/file/d/1NUXMqW8WnlLCqMCNpUNWmWJZXLRS1AJe/view?usp=sharing).
 
