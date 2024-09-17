@@ -1,5 +1,5 @@
 # Web Application Project: Real Estate Website
-<br><br>
+<br>
 <div align="center">
     <img src="./preview/real-estate-2.png" style="width: 50%; border-radius: 15px;" alt="Big Screen Previw">
     <br>
