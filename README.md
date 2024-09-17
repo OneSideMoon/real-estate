@@ -8,6 +8,7 @@
 </div>  
 
 This repository contains the frontend part of the Real Estate web application. The project is designed using HTML, CSS, and JavaScript, with a focus on creating a responsive and interactive user interface. The frontend incorporates modern design principles, animations, and is optimized for various devices and screen sizes.
+<br>
 **Preview:** You can view the demo video [here](https://drive.google.com/file/d/1NUXMqW8WnlLCqMCNpUNWmWJZXLRS1AJe/view?usp=sharing).
 
 ## Features
